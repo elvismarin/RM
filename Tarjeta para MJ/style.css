@@ -5,7 +5,7 @@
     font-family: "Poppins", sans-serif;
   }
   body {
-    background-color: #eabaf0;
+    background-color: #eccdf0;
   }
   .card {
     width: 640px;
@@ -87,7 +87,7 @@
         #fedbab 60px,
         transparent 60px
       ),
-      radial-gradient(circle at 30px 5px, #994c10 30px, #fcbf29 31px);
+      radial-gradient(circle at 30px 5px, #994c10 30px, #3f3519 31px);
     border-radius: 10px 10px 0 0;
     position: relative;
     margin: auto;
